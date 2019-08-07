@@ -1,2 +1,2 @@
-username = "{username}"
-password = b"{password_in_base64}"
+username_pen = "0614452880"
+username_mik = "poohpooorathai@gmail.com"
