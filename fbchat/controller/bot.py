@@ -10,7 +10,6 @@ from functions.response import Price
 from functions.response_sku import TwinsShop, ChoiShop
 
 
-
 # Subclass fbchat.Client and override required methods
 class EchoBot(Client):
     def onMessage(self, author_id, message_object, thread_id, thread_type, **kwargs):
@@ -21,6 +20,7 @@ class EchoBot(Client):
             self.send(Message(text=ResponseBy.asking_cod_list()), thread_id=thread_id, thread_type=thread_type)
             self.send(Message(text="กรณีปฏิเสธการรับสินค้า มีความผิดนะจ้า"), thread_id=thread_id, thread_type=thread_type)
             self.sendLocalImage('imgs/cod.png', thread_id=thread_id, thread_type=thread_type)
+            self.send(Message(text="น้องขออนุญาติสรุปยอด\nพร้อมส่งเรทราคาสินค้าและค่าจัดส่งให้สักครู่นะจ้า"), thread_id=thread_id, thread_type=thread_type)
             #self.sendRemoteFiles('https://i.ibb.co/crCJnNV/cod.png', thread_id=thread_id, thread_type=thread_type)            
             self.markAsRead(thread_id)
 
