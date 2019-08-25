@@ -279,5 +279,5 @@ class EchoBot(Client):
         elif message_object.text in sku_choishop:
             cl = ChoiShop(message_object.text, message_object.text)
             self.sendRemoteFiles(cl.response_image(), thread_id=thread_id, thread_type=thread_type)
-            self.send(Message(text=tw.response_sku()), thread_id=thread_id, thread_type=thread_type)
+            self.send(Message(text=cl.response_sku()), thread_id=thread_id, thread_type=thread_type)
             self.send(Message(text="ขนาดชุดตามนี้นะจ้า คุณพี่พอจะใส่ได้ไหมจ้า"), thread_id=thread_id, thread_type=thread_type)
