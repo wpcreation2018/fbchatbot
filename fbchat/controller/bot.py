@@ -19,9 +19,9 @@ class EchoBot(Client):
             
             self.send(Message(text=ResponseBy.asking_cod_list()), thread_id=thread_id, thread_type=thread_type)
             self.send(Message(text="กรณีปฏิเสธการรับสินค้า มีความผิดนะจ้า"), thread_id=thread_id, thread_type=thread_type)
-            self.sendLocalImage('imgs/cod.png', thread_id=thread_id, thread_type=thread_type)
+            #self.sendLocalImage('imgs/cod.png', thread_id=thread_id, thread_type=thread_type)
+            self.sendRemoteFiles('https://www.theperfectladies.com/wp-content/uploads/2019/08/tpl-cod-1.png', thread_id=thread_id, thread_type=thread_type)
             self.send(Message(text="น้องขออนุญาติสรุปยอด\nพร้อมส่งเรทราคาสินค้าและค่าจัดส่งให้สักครู่นะจ้า"), thread_id=thread_id, thread_type=thread_type)
-            #self.sendRemoteFiles('https://www.theperfectladies.com/wp-content/uploads/2019/08/tpl-cod-1.png', thread_id=thread_id, thread_type=thread_type)            
             self.markAsRead(thread_id)
 
         # Ask for more products
@@ -31,8 +31,8 @@ class EchoBot(Client):
             self.send(Message(text="มีจ้าคุณพี่"), thread_id=thread_id, thread_type=thread_type)
             self.send(Message(text=ResponseBy.goto_website()), thread_id=thread_id, thread_type=thread_type)
             self.send(Message(text="https://www.theperfectladies.com/products/"), thread_id=thread_id, thread_type=thread_type)
-            self.sendLocalImage('imgs/discount.jpg', thread_id=thread_id, thread_type=thread_type)
-            #self.sendRemoteFiles('https://www.theperfectladies.com/wp-content/uploads/2019/08/tpl-bigsize-banner.jpg', thread_id=thread_id, thread_type=thread_type)            
+            #self.sendLocalImage('imgs/discount.jpg', thread_id=thread_id, thread_type=thread_type)
+            self.sendRemoteFiles('https://www.theperfectladies.com/wp-content/uploads/2019/08/tpl-bigsize-banner.jpg', thread_id=thread_id, thread_type=thread_type)            
             self.markAsUnread(thread_id)
 		
         # Ask for price
@@ -59,8 +59,8 @@ class EchoBot(Client):
             self.send(Message(text=ResponseBy.asking_bigsize_list()), thread_id=thread_id, thread_type=thread_type)
             self.send(Message(text=ResponseBy.goto_website()), thread_id=thread_id, thread_type=thread_type)
             self.send(Message(text="https://www.theperfectladies.com/product-category/big-size/"), thread_id=thread_id, thread_type=thread_type)
-            self.sendLocalImage('imgs/discount.jpg', thread_id=thread_id, thread_type=thread_type)
-            #self.sendRemoteFiles('https://www.theperfectladies.com/wp-content/uploads/2019/08/tpl-bigsize-banner.jpg', thread_id=thread_id, thread_type=thread_type)
+            #self.sendLocalImage('imgs/discount.jpg', thread_id=thread_id, thread_type=thread_type)
+            self.sendRemoteFiles('https://www.theperfectladies.com/wp-content/uploads/2019/08/tpl-bigsize-banner.jpg', thread_id=thread_id, thread_type=thread_type)
             self.send(Message(sticker=Sticker(ResponseBy.lovely_emoji())), thread_id=thread_id, thread_type=thread_type)            
             self.markAsRead(thread_id)
         
@@ -68,10 +68,10 @@ class EchoBot(Client):
         if message_object.text in cod_list:
             
             self.send(Message(text="เงื่อนไขการสั่งซื้อสินค้าแบบเก็บเงินปลายทาง\n�1. การสั่งซื้อสินค้าแบบเก็บเงินปลายทางจะมีค่าบริการเพิ่ม\n�2. ห้ามปฏิเสธการรับของ เนื่องจากทางร้านจัดจำหน่าย และบริษัทขนส่งเกิดความเสียหาย ผู้สั่งสินค้ามีหน้าที่รับผิดชอบการสั่งซื้อสินค้า และชำระเงินตามยอดสั่งซื้อ\n\nอ่านก่อนติดสินใจสั่งซื้อ !! สั่งแล้วไม่รับ มีความผิด\n\n* หากไม่ชำระเงินหรือปฏิเสธการรับสินค้า จะมีความผิด ตามประมวลกฎหมายแพ่งและพาณิชย์ มาตรา 168 และ 458\n\nขอบพระคุณทุกท่านที่ไว้วางใจ และเลือกสินค้าของทางร้านเราค่ะ"), thread_id=thread_id, thread_type=thread_type)
-            self.sendLocalImage('imgs/cod.png', thread_id=thread_id, thread_type=thread_type)
-            self.sendLocalImage('imgs/claim.png', thread_id=thread_id, thread_type=thread_type)            
-            #self.sendRemoteFiles('https://www.theperfectladies.com/wp-content/uploads/2019/08/tpl-cod-1.png', thread_id=thread_id, thread_type=thread_type)
-            #self.sendRemoteFiles('https://www.theperfectladies.com/wp-content/uploads/2019/08/tpl-claim.png', thread_id=thread_id, thread_type=thread_type)            
+            #self.sendLocalImage('imgs/cod.png', thread_id=thread_id, thread_type=thread_type)
+            #self.sendLocalImage('imgs/claim.png', thread_id=thread_id, thread_type=thread_type)            
+            self.sendRemoteFiles('https://www.theperfectladies.com/wp-content/uploads/2019/08/tpl-cod-1.png', thread_id=thread_id, thread_type=thread_type)
+            self.sendRemoteFiles('https://www.theperfectladies.com/wp-content/uploads/2019/08/tpl-claim.png', thread_id=thread_id, thread_type=thread_type)            
             self.send(Message(text="**หลังจากคอนเฟิร์มข้อมูลถูกต้องแล้ว ห้ามยกเลิกทุกกรณี**"), thread_id=thread_id, thread_type=thread_type)
             self.send(Message(text="หากเข้าใจแล้วโปรดพิมพ์คำว่า \"ตกลง\""), thread_id=thread_id, thread_type=thread_type)
             self.markAsRead(thread_id)
@@ -113,8 +113,8 @@ class EchoBot(Client):
             self.send(Message(text=ResponseBy.negative_bigsize_list()), thread_id=thread_id, thread_type=thread_type)
             self.send(Message(text=ResponseBy.goto_website()), thread_id=thread_id, thread_type=thread_type)
             self.send(Message(text="https://www.theperfectladies.com/product-category/big-size/"), thread_id=thread_id, thread_type=thread_type)
-            self.sendLocalImage('imgs/discount.jpg', thread_id=thread_id, thread_type=thread_type)
-            #self.sendRemoteFiles('https://www.theperfectladies.com/wp-content/uploads/2019/08/tpl-bigsize-banner.jpg', thread_id=thread_id, thread_type=thread_type)            
+            #self.sendLocalImage('imgs/discount.jpg', thread_id=thread_id, thread_type=thread_type)
+            self.sendRemoteFiles('https://www.theperfectladies.com/wp-content/uploads/2019/08/tpl-bigsize-banner.jpg', thread_id=thread_id, thread_type=thread_type)            
             self.markAsRead(thread_id)
         
         # Found aggressive messages
@@ -124,8 +124,8 @@ class EchoBot(Client):
             self.send(Message(text=ResponseBy.negative_list()), thread_id=thread_id, thread_type=thread_type)
             self.send(Message(text=ResponseBy.goto_website()), thread_id=thread_id, thread_type=thread_type)
             self.send(Message(text="https://www.theperfectladies.com/products/"), thread_id=thread_id, thread_type=thread_type)
-            self.sendLocalImage('imgs/discount.jpg', thread_id=thread_id, thread_type=thread_type)
-            #self.sendRemoteFiles('https://www.theperfectladies.com/wp-content/uploads/2019/08/tpl-bigsize-banner.jpg', thread_id=thread_id, thread_type=thread_type)
+            #self.sendLocalImage('imgs/discount.jpg', thread_id=thread_id, thread_type=thread_type)
+            self.sendRemoteFiles('https://www.theperfectladies.com/wp-content/uploads/2019/08/tpl-bigsize-banner.jpg', thread_id=thread_id, thread_type=thread_type)
             self.markAsRead(thread_id)
         # Self Response
         if message_object.text in price_list:
@@ -141,17 +141,17 @@ class EchoBot(Client):
             self.send(Message(text=ResponseBy.thankful_word()), thread_id=thread_id, thread_type=thread_type)
             self.send(Message(text=ResponseBy.goto_website()), thread_id=thread_id, thread_type=thread_type)
             self.send(Message(text="https://www.theperfectladies.com/"), thread_id=thread_id, thread_type=thread_type)
-            self.sendLocalImage('imgs/discount.jpg', thread_id=thread_id, thread_type=thread_type)
+            #self.sendLocalImage('imgs/discount.jpg', thread_id=thread_id, thread_type=thread_type)
             self.sendRemoteFiles('https://www.theperfectladies.com/wp-content/uploads/2019/08/tpl-bigsize-banner.jpg', thread_id=thread_id, thread_type=thread_type)
             self.markAsRead(thread_id)
    
         # Ask for how to transfer
         if message_object.text in transfer_list:
             
-            self.sendLocalImage('imgs/transfer.png', thread_id=thread_id, thread_type=thread_type)
-            self.sendLocalImage('imgs/claim.png', thread_id=thread_id, thread_type=thread_type)
-            #self.sendRemoteFiles('https://i.ibb.co/rtKXPrD/transfer.png', thread_id=thread_id, thread_type=thread_type)
-            #self.sendRemoteFiles('https://www.theperfectladies.com/wp-content/uploads/2019/08/tpl-claim.png', thread_id=thread_id, thread_type=thread_type)
+            #self.sendLocalImage('imgs/transfer.png', thread_id=thread_id, thread_type=thread_type)
+            #self.sendLocalImage('imgs/claim.png', thread_id=thread_id, thread_type=thread_type)
+            self.sendRemoteFiles('https://i.ibb.co/rtKXPrD/transfer.png', thread_id=thread_id, thread_type=thread_type)
+            self.sendRemoteFiles('https://www.theperfectladies.com/wp-content/uploads/2019/08/tpl-claim.png', thread_id=thread_id, thread_type=thread_type)
             self.send(Message(text="โอนแล้วรบกวนแจ้งสลิป พร้อม ชื่อ ที่อยู่และเบอร์ติดต่อผู้รับ เพื่อจัดส่งชุดสวยๆให้ถึงมือคุณพี่ได้เลยจ้า😍"), thread_id=thread_id, thread_type=thread_type)
             self.markAsRead(thread_id)
 
@@ -260,8 +260,8 @@ class EchoBot(Client):
         if message_object.text == 'tq':
             
             self.send(Message(text="หลังส่งของเสร็จ น้องขออนุญาตมาแจ้งเลขพัสดุ ไม่เกินวันพรุ่งนี้ ช่วงเวลา 22.00 น. ให้คุณพี่ทราบนะจ้า\n\nขอบพระคุณคุณพี่มากๆจ้า\n🙏"), thread_id=thread_id, thread_type=thread_type)
-            self.sendLocalImage('imgs/thxq.png', thread_id=thread_id, thread_type=thread_type)
-            #self.sendRemoteFiles('https://i.ibb.co/6R9Hs0X/thxq.png', thread_id=thread_id, thread_type=thread_type)
+            #self.sendLocalImage('imgs/thxq.png', thread_id=thread_id, thread_type=thread_type)
+            self.sendRemoteFiles('https://i.ibb.co/6R9Hs0X/thxq.png', thread_id=thread_id, thread_type=thread_type)
             self.markAsRead(thread_id)
 
         # Say sorry for late response
