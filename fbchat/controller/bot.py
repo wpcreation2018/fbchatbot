@@ -7,6 +7,8 @@ from fbchat.models import Message
 from var._collect import *
 from functions.response import ResponseBy
 from functions.response import Price
+from functions.response_sku import TwinsShop, ChoiShop
+
 
 
 # Subclass fbchat.Client and override required methods
@@ -268,3 +270,14 @@ class EchoBot(Client):
             self.send(Message(text=ResponseBy.welcome_word_line_2()), thread_id=thread_id, thread_type=thread_type)
             self.send(Message(text=ResponseBy.do_you_still_want_this()), thread_id=thread_id, thread_type=thread_type)
             self.markAsUnread(thread_id)
+
+        if message_object.text in sku_twinsshop:
+            tw = TwinsShop(message_object.text, message_object.text)
+            self.sendRemoteFiles(tw.response_image(), thread_id=thread_id, thread_type=thread_type)
+            self.send(Message(text=tw.response_sku()), thread_id=thread_id, thread_type=thread_type)
+            self.send(Message(text="ขนาดชุดตามนี้นะจ้า คุณพี่พอจะใส่ได้ไหมจ้า"), thread_id=thread_id, thread_type=thread_type)
+        elif message_object.text in sku_choishop:
+            cl = ChoiShop(message_object.text, message_object.text)
+            self.sendRemoteFiles(cl.response_image(), thread_id=thread_id, thread_type=thread_type)
+            self.send(Message(text=tw.response_sku()), thread_id=thread_id, thread_type=thread_type)
+            self.send(Message(text="ขนาดชุดตามนี้นะจ้า คุณพี่พอจะใส่ได้ไหมจ้า"), thread_id=thread_id, thread_type=thread_type)

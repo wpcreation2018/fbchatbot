@@ -13,3 +13,5 @@ negative_list               = open("keyword/negative_list.txt", "r", encoding="u
 price_list                  = open("keyword/price_list.txt", "r", encoding="utf-8").read().split('\n')
 thankful_list               = open("keyword/thankful_list.txt", "r", encoding="utf-8").read().split('\n')
 transfer_list               = open("keyword/transfer_list.txt", "r", encoding="utf-8").read().split('\n')
+sku_twinsshop               = open("keyword/sku_twinsshop.txt", "r", encoding="utf-8").read().split('\n')
+sku_choishop                = open("keyword/sku_choishop.txt", "r", encoding="utf-8").read().split('\n')

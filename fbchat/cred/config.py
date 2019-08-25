@@ -1,1 +1,1 @@
-username_{suffix} = "{username}"
+username_{suffix} = "{username / email}"
