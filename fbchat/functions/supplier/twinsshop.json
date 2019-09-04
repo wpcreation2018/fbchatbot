@@ -435,10 +435,6 @@
         "image": "https://www.twinsshopvip.com/upload/product-images/TW10315/e36eaafd.jpg",
         "descriptions": "- เสื้อ รอบอก 42-48\" ยาว 30\"\n- กางเกง รอบเอวยืด 28-36\" สะโพก 36-42\" ยาว 40\""
     },
-    "TW1895": {
-        "image": "https://www.twinsshopvip.com/upload/product-images/TW1895/e3e59cfe.jpg",
-        "description": "ขนาด >>รอบอก32-34\" รอบเอว 25-32\" สะโพก 36-38\" ยาว42\""
-    },
     "TW2323": {
         "image": "https://www.twinsshopvip.com/upload/product-images/TW2323/660a80a4.jpg",
         "description": "- เสื้อ รอบอก32-36\" ยาว 22\" \n- กางเกงรอบเอว(ยืดสม็อคหลัง) 25-32\" สะโพก 36-40\" ยาว 32\""
@@ -1131,10 +1127,6 @@
         "image": "https://www.twinsshopvip.com/upload/product-images/TW2865/5e8a03e0.jpg",
         "description": "ขนาด >> เสื้อรอบอก32-36\" ยาว 18\"- กางเกง รอบเอว 26-32\" สะโพก34-40\" ยาว33\""
     },
-    "TW9924": {
-        "image": "https://www.twinsshopvip.com/upload/product-images/TW9924/c06c5623.jpg",
-        "description": "- เสื้อคลุมสูท รอบอก 32-38\" ยาว 29\"- เสื้อสายเดี่ยว รอบอก 32-36\" ยาว 16\"- กระโปรง รอบเอว สม็อคหลัง 25-30\" สะโพก 34-36\" ยาว 17\""
-    },
     "TW8504": {
         "image": "https://www.twinsshopvip.com/upload/product-images/TW8504/028043fa.jpg",
         "description": "ขนาด>> รอบอก 34-36\" รอบเอว 27-32\" สะโพก 34-38\" ยาว 53\""
@@ -1146,10 +1138,6 @@
     "TW5630": {
         "image": "https://www.twinsshopvip.com/upload/product-images/TW5630/db390964.jpg",
         "description": "ขนาด >> รอบอก 34-38\" รอบเอว 26-30\" สะโพก36-40\" ยาว37\""
-    },
-    "TW3754": {
-        "image": "https://www.twinsshopvip.com/upload/product-images/TW3754/83bd4aba.jpg",
-        "description": "- เสื้อ รอบอก : 34-38\" หน้ายาว : 20\" หลังยาว 28\"- กางเกง รอบเอวยืดสม๊อคหลัง : 26-32\" สะโพก : 36-4\" ยาว : 31\""
     },
     "TW0352": {
         "image": "https://www.twinsshopvip.com/upload/product-images/TW0352/f90d3cac.jpg",
@@ -1226,10 +1214,6 @@
     "TW2580": {
         "image": "https://www.twinsshopvip.com/upload/product-images/TW2580/2590ae4e.jpg",
         "description": "- เสื้อ รอบอก32-36\" ยาว20.5\" \n- เอี๊ยม รอบเอว(ไม่ยืด)25-32\" สะโพก 35-40\" ยาวจากไหล่ถึงเป้า28\" ยาว49\""
-    },
-    "TW10435": {
-        "image": "https://www.twinsshopvip.com/upload/product-images/TW10435/c7be1916.jpg",
-        "description": "เสื้อ รอบอก 32-40\" ยาว 17.5\" เอี๊ยมกางเกง รอบเอว 26-34\" สะโพก 36-42\" ยาว 19\""
     },
     "TW0770": {
         "image": "https://www.twinsshopvip.com/upload/product-images/TW0770/1cf72aa6.jpg",
@@ -1630,5 +1614,209 @@
     "TW4109": {
         "image": "https://www.twinsshopvip.com/upload/product-images/TW4109/3ec08baf.jpg",
         "description": "- เสื้อรอบอก 34-36\" ยาว 36.5\" \n- เสื้อสายเดี่ยว รอบอก 32-34\" ยาว 19\" \n- กางเกงรอบเอว ยืดสม็อคหลัง 25-30\" สะโพก36-38\" ยาว 15\""
-    }    
+    },
+    "TW10359": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10359/17b164b0.jpg",
+        "description": "ขนาด : รอบอก ได้ถึง 36\" รอบเอว ได้ถึง 36\" สะโพก Freesize ยาว 37\""
+    },
+    "TW10358": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10358/945207f4.jpg",
+        "description": "ขนาด : รอบอก 34-38\" รอบเอว 26-32\" สะโพก 38-40\" ยาว 41\""
+    },
+    "TW10357": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10357/d38098ea.jpg",
+        "description": "ขนาด : รอบอก 34-38\" รอบเอว 26-32\" สะโพก 38-40\" ยาว 40\""
+    },
+    "TW10356": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10356/0cfb50eb.jpg",
+        "description": "ขนาด : รอบอก 34-40\" รอบเอว 26-30\" สะโพก 38-44\" ยาว 37\""
+    },
+    "TW8590": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW8590/84fadabc.jpg",
+        "description": "รอบ อก : 34-36\" รอบเอว : 26-30\" สะโพก 36 -40\" ยาว 57\""
+    },
+    "TW6667": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW6667/37f19ebb.jpg",
+        "description": "- เสื้อ รอบอก34-36\" ยาว 17.5\" \n- เอี๊ยมจั้มสูท รอบอก 34-36\" รอบเอว(ยืดสม็อค) 28-34\" สะโพก36-42\" ยาว53.5\""
+    },
+    "TW9960": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW9960/d28271b3.jpg",
+        "description": "- เสื้อ รอบอก 32-38\" ยาว 28\" \n- กางเกง รอบเอว 26-34\" สะโพก 36-40\" ยาว15.5\""
+    },
+    "TW9041": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW9041/a4c99eed.jpg",
+        "description": "ขนาด : รอบอก 32-36\" รอบเอว 25-32\" สะโพก 34-38\" ยาว 48\""
+    },
+    "TW9570": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW9570/d08c26ee.jpg",
+        "description": "ขนาด : รอบอก 32-38\" รอบเอว 26-32\" สะโพก 34-38\" ยาว 40\""
+    },
+    "TW9039": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW9039/08effda2.jpg",
+        "description": "ขนาด : รอบอก 32-38\" ยาว 18\""
+    },
+    "TW10449": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10449/cfc75b12.jpg",
+        "description": "ขนาด >> รอบอก34-44\" ยาว23.5\""
+    },
+    "TW9042": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW9042/b51a2648.jpg",
+        "description": "ขนาด : รอบอก 32-36\" รอบเอว 25-32\" สะโพก 34-38\" ยาว 28\""
+    },
+    "TW10435": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10435/c7be1916.jpg",
+        "description": "- เสื้อ รอบอก 32-40\" ยาว 17.5\" \n- เอี๊ยมกางเกง รอบเอว 26-34\" สะโพก 36-42\" ยาว 19\""
+    },
+    "TW10447": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10447/690f5781.jpg",
+        "description": "- เสื้อ รอบอก34-38\" ยาว 23\" \n- กางเกง รอบเอว (ซิปหลัง )26-34\" สะโพก 36-42\" ยาว38.5\""
+    },
+    "TW3754": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW3754/6f46f3ab.jpg",
+        "description": "- เสื้อ รอบอก : 34-38\" หน้ายาว : 22\" หลังยาว 28\" \n- กางเกง รอบเอวยืดสม๊อคหลัง : 26-32\" สะโพก : 36-40\" ยาว : 28\""
+    },
+    "TW5868": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW5868/955c4878.jpg",
+        "description": "- เสื้อรอบอก 34-37\" ยาว 27\" \n- กางเกง รอบเอวยืด24-30\" สะโพก 34-38\" ยาว36\""
+    },
+    "TW1895": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW1895/e3e59cfe.jpg",
+        "description": "ขนาด >>รอบอก32-34\" รอบเอว 25-32\" สะโพก 36-38\" ยาว42\""
+    },
+    "TW10123": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10123/a85aeaa8.jpg",
+        "description": "ขนาด: รอบอก 32-34\" รอบเอว 27-28\" สะโพก 34-38\" ยาว 34\""
+    },
+    "TW7034": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW7034/c22738a3.jpg",
+        "description": "- เสื้อ รอบอก34-38\" ยาว26 \" \n- กางเกง รอบเอวยืดสม้อคหลัง 26-32\" สะโพก36-40\" ยาว37\""
+    },
+    "TW3308": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW3308/0b7290a0.jpg",
+        "description": "- เสื้อ รอบอก34-40\" ยาว 22\" \n- กางเกง รอบเอว (ซิปหลัง )26-32\" สะโพก 36-40\" ยาว30\""
+    },
+    "TW7918": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW7918/54215bc8.jpg",
+        "description": "- เสื้อ รอบอก34-38\" ยาว 24\" \n- กางเกง รอบเอวยืดสม๊อคหลัง 26-30 \" สะโพก 36-40\" ยาว 39 \" ซิปหลัง"
+    },
+    "TW1555": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW1555/1e64e9c5.jpg",
+        "description": "รอบอก34-38\" รอบเอว26-32\" สะโพก 34-42\" ยาว41\""
+    },
+    "TW10355": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10355/eafc97df.jpg",
+        "description": "- เสื้อ รอบอก 32-36\" ยาว 28\" \n- กางเกง รอบเอว 26-30\" สะโพก 38-42\" ยาว 16\""
+    },
+    "TW10354": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10354/c924b3c4.jpg",
+        "description": "ขนาด : รอบอก 32-36\" รอบเอว 26-30\" สะโพก 38-40\" ยาว 33\""
+    },
+    "TW10353": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10353/c8d370fe.jpg",
+        "description": "ขนาด : รอบอก 36-38\" รอบเอว 26-30\" สะโพก 40-46\" ยาว 56\""
+    },
+    "TW10352": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10352/118d578a.jpg",
+        "description": "- เสื้อ รอบอก 32-36\" ยาว 16\" \n- กางเกง รอบเอว 26-30\" สะโพก 38-40\" ยาว 19\""
+    },
+    "TW10351": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10351/82b5b89f.jpg",
+        "description": "- เสื้อ รอบอก 32-36\" ยาว 16\" \n- กางเกง รอบเอว 26-30\" สะโพก 38-40\" ยาว 16\""
+    },
+    "TW9924": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW9924/86e6ca1e.jpg",
+        "description": "- เสื้อลุมสูท รอบอก 32-38\" ยาว 29\" \n- เสื้อสายเดี่ยว รอบอก 32-36\" ยาว 16\" \n- กระโปรง รอบเอว สม็อคหลัง 25-30\" สะโพก 34-36\" ยาว 17\""
+    },
+    "TW10366": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10366/3e563514.jpg",
+        "description": "- เสื้อ รอบอก 38-40\" ยาว 25\" \n- กางเกง รอบเอวยืด 24-32\" สะโพก 36-38\" ยาว 13\""
+    },
+    "TW10365": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10365/65428071.jpg",
+        "description": "- เสื้อ รอบอก34-36\" ยาว 15\" \n- กางเกง รอบเอวยืด24-32\" สะโพก34-38\" ยาว38\""
+    },
+    "TW10451": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10451/b81b8867.jpg",
+        "description": "- เสื้อ รอบอก32-36\" ยาว 15\" \n- กางเกง รอบเอว 25-26 \" สะโพก 34-36\" ยาว 37\""
+    },
+    "TW10364": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10364/1c966939.jpg",
+        "description": "ขนาด : รอบอก 44-46\" รอบเอว 44-46\" สะโพก 44-46\" ยาว 30\""
+    },
+    "TW10363": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10363/682b23e8.jpg",
+        "description": "ขนาด : รอบอก 44-46\" รอบเอว 44-46\" สะโพก 44-46\" ยาว 30\""
+    },
+    "TW10362": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10362/f2e5a6e0.jpg",
+        "description": "- แจ็คเก็ต รอบอก 38-44\" ยาว 23\" \n- เดรส รอบอก 38-40\" รอบเอวยืด 38-40\" สะโพก 38-40\" ยาว 30\""
+    },
+    "TW10361": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10361/c1300ed8.jpg",
+        "description": "- เสื้อ รอบอก 42-48\" ยาว 30\" \n- กางเกง รอบเอวยืด 28-36\" สะโพก 36-42\" ยาว 40\""
+    },
+    "TW10360": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10360/d1b8ba71.jpg",
+        "description": "- เสื้อ รอบอก 38-44\" ยาว 23\" \n- กางเกง รอบเอวยืด 24-32\" สะโพก 34-38\" ยาว 38\""
+    },
+    "TW7819": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW7819/6b3d72b8.jpg",
+        "description": "รอบอก36-40\" รอบเอวยืดสม๊อคหลัง28-34\" สะโพก36-42\" ยาว33\""
+    },
+    "TW9535": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW9535/681d9bd1.jpg",
+        "description": "ขนาด : รอบอก 36-40\" รอบเอว 28-38\" สะโพก 42-48\" ยาว 33\""
+    },
+    "TW0425": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW0425/6142aa7b.jpg",
+        "description": "- สูท รอบอก32-38\" ไหล่16\" ยาว25\" \n- กางเกง รอบเอว24-32\" สะโพก36-40\" ยาว 36.5\""
+    },
+    "TW10051": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10051/8082c391.jpg",
+        "description": "- เสื้อ รอบอก 38-42\" ยาว 25\" \n- กางเกง รอบเอว(สม็อกหลัง) 28-38\" สะโพก 40-44\" ยาว 16\""
+    },
+    "TW4444": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW4444/d5c4cff1.jpg",
+        "description": "- เสื้อคลุม รอบอก: 36-40\" ยาว27\" \n- เกาะอก รอบอก 32-34\" รอบเอว(ยืดสม็อค)28-34\" สะโพก 36-40\" ยาว25\""
+    },
+    "TW6950": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW6950/61fb0bb5.jpg",
+        "description": "- เสื้อ รอบอก36-40\" ยาว 18.5\" \n- กางเกงรอบเอว(ยืดสม็อคหลัง) 26-32\" สะโพก36-40\" ยาว35\""
+    },
+    "TW7105": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW7105/37820dc1.jpg",
+        "description": "- เสื้อ รอบอก 32-38\" ยาว 19\" \n- กางเกง รอบเอว (ยืดสม็อคหลัง) 26-30\" สะโพก34-36\" ยาว 39 \""
+    },
+    "TW5689": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW5689/a4d5b4c6.jpg",
+        "description": "- เสื้อ รอบอก34-36\" ยาว 25\" \n- กางเกง รอบเอว (ยืดสม็อคหลัง) 26-32\" สะโพก36-40\" ยาว14\""
+    },
+    "TW5169": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW5169/d11c54e9.jpg",
+        "description": "- เสื้อ รอบอก34-36\" ยาว 23\" \n- กางเกง รอบเอว สม็อคหลัง 28-29\" สะโพก 34-38\" ยาว14\""
+    },
+    "TW9190": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW9190/731c3c4a.jpg",
+        "description": "- เสื้อ รอบอก 32-36\" ยาว 20\" \n- กางเกง รอบเอว 26-34\" สะโพก 36-42\" ยาว38\""
+    },
+    "TW8715": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW8715/afda8e1d.jpg",
+        "description": "- รอบอก 36-40\" รอบเอว 30-38\" สะโพก 36-42\" ยาว 32\""
+    },
+    "TW10450": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW10450/737d4bf6.jpg",
+        "description": "- รอบอก32-36\" รอบเอว 25-28\" สะโพก 34-37\" ยาว 54\""
+    },
+    "TW9426": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW9426/e812cfbe.jpg",
+        "description": "- เสื้อ รอบอก 34-38\" ยาว 16\" \n- เสื้อคลุม รอบอก 38-42\" ยาว 33\" \n- กางเกง รอบเอว(สม็อกหลัง) 28-38\" สะโพก 42-46\" ยาว 16\""
+    },
+    "TW9228": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW9228/777be716.jpg",
+        "description": "ขนาด : รอบอก 34-36\" รอบเอว 26-28\" สะโพก 34-40\" ยาว 33\""
+    },
+    "TW5870": {
+        "image": "https://www.twinsshopvip.com/upload/product-images/TW5870/cd671b3b.jpg",
+        "description": "- เสื้อ รอบอก34-40\" ยาว28\" \n- กางเกง รอบเอวยืดสม๊อค 25-30\" สะโพก 36-38\" ยาว38"
+    }
 }
