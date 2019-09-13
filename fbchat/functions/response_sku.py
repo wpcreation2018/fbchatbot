@@ -36,3 +36,10 @@ class ChoiShop(Supplier):
 	def __init__(self, sku, image):
 		super().__init__(sku, image)
 		self.files = 'functions/supplier/choishop.json'
+
+
+class FairyAngel(Supplier):
+	""" Fairy Angel """
+	def __init__(self, sku, image):
+		super().__init__(sku, image)
+		self.files = 'functions/supplier/fairyangel.json'

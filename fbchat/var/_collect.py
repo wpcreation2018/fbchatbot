@@ -15,3 +15,4 @@ thankful_list               = open("keyword/thankful_list.txt", "r", encoding="u
 transfer_list               = open("keyword/transfer_list.txt", "r", encoding="utf-8").read().split('\n')
 sku_twinsshop               = open("keyword/sku_twinsshop.txt", "r", encoding="utf-8").read().split('\n')
 sku_choishop                = open("keyword/sku_choishop.txt", "r", encoding="utf-8").read().split('\n')
+sku_fairyangel              = open("keyword/sku_fairyangel.txt", "r", encoding="utf-8").read().split('\n')
