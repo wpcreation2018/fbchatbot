@@ -642,5 +642,101 @@
     "CL6364": {
         "image": "https://www.choishop.com/upload/product-images/CL6364/448cc8c9.jpg",
         "description": "- ขนาดเสื้อ :: รอบอก 34-36 ยาว 20 นิ้ว \n- ขนาดเอี้ยม :: รอบอก 34-38 รอบเอวฟรีไซด์ สะโพก 36-42 ยาวไม่รวมสาย 43 นิ้ว (สายปรับได้)"
+    },
+    "CL5785": {
+        "image": "https://www.choishop.com/upload/product-images/CL5785/2da4643f.jpg",
+        "description": "- ขนาดเสื้อ:: รอบอก 32ยืดได้36 ยาว 20 นิ้ว \n- ขนาดกระโปรง ::รอบเอว (เอวสม็อคหลัง) 26-30 สะโพกฟรีไซด์ ยาว 29 นิ้ว"
+    },
+    "CL1753": {
+        "image": "https://www.choishop.com/upload/product-images/CL1753/dfac6368.jpg",
+        "description": "ขนาด:: รอบอก 32-34 รอบเอว 26-27 สะโพก 34-36 ยาว 34 นิ้ว"
+    },
+    "CL5-010": {
+        "image": "https://www.choishop.com/upload/product-images/CL5-010/89710f9f.jpg",
+        "description": "- ขนาดเสื้อ :: รอบอก 34-38 ยาว 16.5 นิ้ว \n- ขนาดกางเกง :: รอบเอวสม็อค 26-34 สะโพก 30ยืดได้40 ยาว 38 นิ้ว"
+    },
+    "CL1666": {
+        "image": "https://www.choishop.com/upload/product-images/CL1666/539a0f18.jpg",
+        "description": "ขนาด:: รอบอก 34-36 รอบเอว 26-28 สะโพก 34-37 ยาว 31 นิ้ว"
+    },
+    "CL5-011": {
+        "image": "https://www.choishop.com/upload/product-images/CL5-011/3417ea93.jpg",
+        "description": "- ขนาดเสื้อ :: รอบอก 34-39 ยาว 22 นิ้ว \n- ขนาดกางเกง :: รอบเอวสม็อค 28-34 สะโพก 36-38 ยาว 38 นิ้ว"
+    },
+    "CL6309": {
+        "image": "https://www.choishop.com/upload/product-images/CL6309/1823288c.jpg",
+        "description": "- ขนาดเสื้อ:: รอบอก 34-40 ยาว 18 นิ้ว \n- ขนาดกางเกง:: 25-29 สะโพก 34-38 ยาว 15 นิ้ว"
+    },
+    "CL5949": {
+        "image": "https://www.choishop.com/upload/product-images/CL5949/a639c49a.jpg",
+        "description": "- ขนาดเสื้อ:: รอกอก 36-40 ยาว 31 นิ้ว \n- ขนาดกางเกง:: รอบเอวสม็อค 25-30 สะโพก 35-37 ยาว 35 นิ้ว"
+    },
+    "CL1483": {
+        "image": "https://www.choishop.com/upload/product-images/CL1483/7bfa747f.jpg",
+        "description": "ขนาด:: รอบอก 36-38รอบเอว (ไม่สม็อค) 30-40 สะโพกฟรีไซด์ ยาว 42 นิ้ว "
+    },
+    "CL9018": {
+        "image": "https://www.choishop.com/upload/product-images/CL9018/cea271d3.jpg",
+        "description": "- ขนาดเสื้อ :: รอบอก 34-36 ยาว 23 นิ้ว \n- ขนาดกางเกง :: รอบเอว 26-30 สะโพก 36-40 ยาว 38 นิ้ว"
+    },
+    "CL1752": {
+        "image": "https://www.choishop.com/upload/product-images/CL1752/93dfeeb2.jpg",
+        "description": "ขนาด:: รอบอก 34-42 รอบเอวไม่สม็อค 27-34 สะโพก 34-42 ยาว 34 นิ้ว "
+    },
+    "CL1742": {
+        "image": "https://www.choishop.com/upload/product-images/CL1742/3ad0d7c7.jpg",
+        "description": "ขนาด:: รอบอก 30-34 รอบเอวสม็อค 25-28 สะโพกฟรีไซด์ ยาว 27 นิ้ว"
+    },
+    "CL5997": {
+        "image": "https://www.choishop.com/upload/product-images/CL5997/7ed07e26.jpg",
+        "description": "- ขนาดเสื้อ:: รอบอก 32-34 ยาว 15 นิ้ว \n- ขนาดกางเกง:: รอบเอว 29-30 สะโพก 38-40 ยาว 15 นิ้ว"
+    },
+    "CL1712": {
+        "image": "https://www.choishop.com/upload/product-images/CL1712/b35d5192.jpg",
+        "description": "ขนาด : รอบอก 32-36 รอบเอวไม่สม็อค 25-30 สะโพก 36-38 ยาว 32 นิ้ว"
+    },
+    "CL6159": {
+        "image": "https://www.choishop.com/upload/product-images/CL6159/b745a1c9.jpg",
+        "description": "ขนาด :: รอบอก 34-40 รอบเอวไม่สม็อค 29-32 สะโพก 36-38 ยาว 57 นิ้ว ยาวไหล่ถึงเป้า 31 นิ้ว"
+    },
+    "CL8146": {
+        "image": "https://www.choishop.com/upload/product-images/CL8146/c26da8b2.jpg",
+        "description": "ขนาด:: รอบอก 34-48 ยาว 32 นิ้ว"
+    },
+    "CL9017": {
+        "image": "https://www.choishop.com/upload/product-images/CL9017/d7a18803.jpg",
+        "description": "- ขนาดเสื้อ :: รอบอก 34-36 ยาว 25 นิ้ว \n- ขนาดกางเกง :: รอบเอว 26-30 สะโพก 36-40 ยาว 38 นิ้ว"
+    },
+    "CL5353": {
+        "image": "https://www.choishop.com/upload/product-images/CL5353/8af5eaf4.jpg",
+        "description": "- ขนาดจั้มสูท :: รอบอก 32-34 รอบเอว 25-30 สะโพก 34-38 ยาว 50 นิ้ว \n- ขนาดเสื้อคลุม :: รอบอก 32-38 ยาว 19 นิ้ว"
+    },
+    "CL9005": {
+        "image": "https://www.choishop.com/upload/product-images/CL9005/b2bb8cba.jpg",
+        "description": "- ขนาดเสื้อ:: รอบอก 32-36 ยาวนิ้ว 20 \n- ขนาดกางเกง:: รอบอก 26-30 สะโพก 36-40 ยาว 38 นิ้ว"
+    },
+    "CL5-012": {
+        "image": "https://www.choishop.com/upload/product-images/CL5-012/68319c99.jpg",
+        "description": "- ขนาดเสื้อ:: รอบอก 34-38 ยาว 17 นิ้ว \n- ขนาดกระโปรง:: รอบเอวไม่สม็อค 29-30 สะโพก 34-36 ยาว 17 นิ้ว"
+    },
+    "CL1355": {
+        "image": "https://www.choishop.com/upload/product-images/CL1355/180a9ba2.jpg",
+        "description": "- ขนาดเกาะอก:: รอบอก 32-34  ยาว 12 ยืดได้ \n- ขนาดเสื้อลูกไม้:: รอบอก 32-36 ยาว 18 นิ้ว \n- ขนาดกระโปรง:: รอบเอว (ยืดสม็อค)  26-32 สะโพก34-38 ยาว 29 นิ้ว"
+    },
+    "CL4038": {
+        "image": "https://www.choishop.com/upload/product-images/CL4038/1bce178a.jpg",
+        "description": "- ขนาดเสื้อ :: รอบอก 32-36 ยาว 21 นิ้ว \n- ขนาดเอี้ยม :: รอบเอว 25-30 สะโพก 34-38 ยาวไม่รวมสาย 41 นิ้ว ความยาวปรับได้"
+    },
+    "CL1017": {
+        "image": "https://www.choishop.com/upload/product-images/CL1017/be4ed234.jpg",
+        "description": "ขนาด :: รอบอก 32-38 รอบเอว 25-30 สะโพก 36-40 ยาว 44 นิ้ว"
+    },
+    "CL4258": {
+        "image": "https://www.choishop.com/upload/product-images/CL4258/8579b15a.jpg",
+        "description": "ขนาด:: รอบอก 32-34 รอบเอวไม่สม็อค 26-28 สะโพก 34-37 ไหล่ถึงเป้า 30 นิ้ว ยาว 54 นิ้ว"
+    },
+    "CL4267": {
+        "image": "https://www.choishop.com/upload/product-images/CL4267/ed99c00d.jpg",
+        "description": "ขนาด:: รอบอก 34-36 รอบเอวไม่สม็อค 26-30 สะโพก 36-39 ยาว 55 นิ้ว ยาวไล่ถึงเป้า 30 นิ้ว"
     }    
 }
