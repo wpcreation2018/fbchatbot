@@ -24,7 +24,7 @@ local_img_urls = {
         'imgs/transfer-3.jpg',
         'imgs/transfer-4.jpg',
         'imgs/transfer-5.jpg',
-    ])
+    ]),
     'img_thxq'      : 'imgs/thxq.png'
 }
 
