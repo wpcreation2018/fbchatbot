@@ -29,7 +29,7 @@ local_img_urls = {
 }
 
 tpl_urls = {
-    'home_page'     : 'https://www.theperfectladies.com/',
-    'shop_page'     : 'https://www.theperfectladies.com/products/',
-    'bigsize_page'  : 'https://www.theperfectladies.com/product-category/fashion/bigsize/',
+    'home_page'     : 'https://fashion.theperfectladies.com/',
+    'shop_page'     : 'https://fashion.theperfectladies.com/shop/',
+    'bigsize_page'  : 'https://fashion.theperfectladies.com/product-category/bigsize/',
 }
