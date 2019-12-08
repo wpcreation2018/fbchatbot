@@ -1,9 +1,9 @@
 import random
 
 remote_img_urls = {
-    'img_cod'       : 'https://www.theperfectladies.com/wp-content/uploads/tpl-cod-1.png',
-    'img_discount'  : 'https://www.theperfectladies.com/wp-content/uploads/tpl-bigsize-banner.jpg',
-    'img_claim'     : 'https://www.theperfectladies.com/wp-content/uploads/tpl-claim.png',
+    'img_cod'       : 'https://i.ibb.co/crCJnNV/cod.png',
+    'img_discount'  : 'https://i.ibb.co/jT7wvYf/TPL-12-12-1920x1080.jpg',
+    'img_claim'     : 'https://i.ibb.co/bbVQ8Hy/claim.png',
     'img_transfer'  : random.choice([
         'https://i.ibb.co/L5JnvXV/transfer-1.jpg',
         'https://i.ibb.co/dJ5wKF5/transfer-2.jpg',
